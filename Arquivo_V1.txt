@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+Primeiro Arquivo
+
+
+
+
+Editado por Isaias Moresco
+=======
 Primeiro Arquivo
 <<<<<<< HEAD
 Está ficando bom!! huhu...
