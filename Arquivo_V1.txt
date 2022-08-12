@@ -1,2 +1,8 @@
 Primeiro Arquivo
-Está ficando bom!!
+<<<<<<< HEAD
+Está ficando bom!! huhu...
+=======
+
+
+To aqui pra fazer bagunça hahaha
+>>>>>>> 068ebda409834714b16ddc56abc3f89aae02966b
