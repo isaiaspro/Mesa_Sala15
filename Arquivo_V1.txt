@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Primeiro Arquivo
 
 
 
 
 Editado por Isaias Moresco
+=======
+Primeiro Arquivo
+
+
+To aqui pra fazer bagunça hahaha
+>>>>>>> 068ebda409834714b16ddc56abc3f89aae02966b
